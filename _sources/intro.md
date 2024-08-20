@@ -1,11 +1,16 @@
-# Welcome to your Jupyter Book
+# Proyek Sain Data
 
-Makkdjfkjfkf a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## Diskripsi Mata Kuliah
+Mata kuliah "Proyek Sains Data" adalah mata kuliah yang  dirancang untuk memberikan pengalaman langsung dalam menerapkan konsep-konsep sains data pada  dunia nyata. Mahasiswa akan terlibat dalam seluruh tahapan proses  proyek sains data, mulai dari pengumpulan dan pembersihan data, eksplorasi dan analisis, hingga pembuatan model dan implementasi. Mata kuliah ini bertujuan untuk mengembangkan keterampilan praktis dalam sains data serta kemampuan untuk bekerja secara efektif dalam tim.
 
-Check out the content pages bundled with this sample book to see more.
+## Capaian Pembelajaran Mata Kuliah
 
-```{tableofcontents}
-```
+* Mahasiswa mampu memahami proses penambangan data
+* Mahasiswa mampu  Memahami data
+* Mahasiswa mampu menjelaskan dan melakukan Data Preprocessing
+* Mahasiswa mampu menjelaskan dan melakukan Algoritma Penambangan Data 
+* Mahasiswa mampu menjelaskan dan memanfaatkan alat pemrograman untuk Analisa  Data 
+* Mahasiswa mampu menjelaskan dan melakukan Analisa Data
+* Mahasiswa mampu memanfaatkan Analisa Data untuk Kebutuhan Bisnis
+
+
