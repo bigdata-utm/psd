@@ -19,7 +19,7 @@ Selain itu kita dapat  menganalisis data historis pelanggan, mengidentifikasi po
 
 
 
-
+### Contoh Kasus Pemahaman Bisnis (Business Understanding)
 
 <h3>1. <strong>Perusahaan Ritel – Peramalan Penjualan</strong></h3>
 <p><strong>Pemahaman Bisnis</strong>:</p>
