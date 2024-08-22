@@ -15,4 +15,5 @@ Dengan pemahaman bisnis yang baik maka akan didapatkan beberapa keuntungan diant
 Sebagai ilustrasi kontek pemahaman bisnis, mari kita gambarkan sebagai berikut:
 Terdapat perusahaan telekomunikasi dimana terjadi peningkatan pelanggan yang berhenti terhadap suatu layanan tertentu. Tentunya ini adalah masalah bagi perusahaan telekomunikasi tersebut. Karena dengan banyaknya pelanggan yang berhenti dan berpindah ke perusahaan telekomunikasi yang lain tentu ini akan berdampak pada kerugian perusahaan. Tantangan yang dihadapi adalah bagaimana perusahaan tersebut dapat mempertahankan pelanggan yang ada sehingga batal untuk berhenti atau berpindah ke layanan yang lain.  
 Sehingga tujuan analisanya adalah mengidentifikasi faktor-faktor yang mempengaruhi keputusan pelanggan untuk berpindah ke penyedia layanan lain dan mengembangkan strategi untuk mempertahankan pelanggan secara efektif.
-Selain itu perlu  menganalisis data historis pelanggan, mengidentifikasi pola perilaku sebelum berhenti, dan mengembangkan model peramalan untuk identifikasi pelanggan  yang berpotensi berhenti.
+Selain itu kita dapat  menganalisis data historis pelanggan, mengidentifikasi pola perilaku p churn, dan mengembangkan model prediktif untuk meramalkan pelanggan yang berpotensi churn.
+
