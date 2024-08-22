@@ -58,4 +58,12 @@ Selain itu kita dapat  menganalisis data historis pelanggan, mengidentifikasi po
     <li>Peningkatan retensi dan kepuasan pelanggan melalui promosi dan penawaran yang ditargetkan.</li>
 </ul>
 
+## Catatan diskusi 
+Silahkan dibaca artikel dibawah
+
+https://www.loker.id/artikel/apa-saja-tugas-manajer-pemasaran
+
+Berikan penjelasan keterkaitan fungsi dari tugas manager pemasaran dengan pemanfaatan analisa sain data 
+
+
 
