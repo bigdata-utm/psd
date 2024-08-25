@@ -28,7 +28,7 @@ table {
 <tbody>
   <tr>
     <td class="tg-c3ow"> <br>1 </td>
-    <td class="tg-o5vb"> <br><a href="https://mulaab.github.io/datascience/memahami/">Mahasiswa mampu memahami proses sain data</a> </td>
+    <td class="tg-o5vb"> <br><a href="https://mulaab.github.io/datascience/">Mahasiswa mampu memahami proses sain data</a> </td>
     <td class="tg-o5vb"> <br> <br>Konsep dasar Penambangan data<br> <br>Teknik dan proses sain data<br> <br>Teknologi terkait dengan sain data&nbsp;&nbsp;</td>
     <td class="tg-o5vb"> <br> <br>Membuat template laporan Proyek Sain Data berdasarkan proses sain data<br> <br>Presentasi membuat time table Proyek Sain Data;&nbsp;&nbsp;</td>
     <td class="tg-o5vb"> <br> <br>Tugas Individu: Penilaian berdasarkan tugas praktikum dan kuis teori<br> <br>Proyek Kelompok: Penilaian terhadap kontribusi tim, kualitas analisis, dan hasil akhir proyek <br> <br>Kontribusi individu terhadap tim<br> <br>Komunikasi tim<br> <br>Distribusi Tugas&nbsp;&nbsp;&nbsp;&nbsp;</td>
