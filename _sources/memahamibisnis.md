@@ -136,6 +136,9 @@ Selain itu kita dapat  menganalisis data historis pelanggan, mengidentifikasi po
 </ul>
 <p>Implementasi strategi-strategi ini akan membantu perusahaan air minum untuk memperkuat posisi pasar, memenuhi kebutuhan pelanggan, dan mencapai pertumbuhan yang berkelanjutan.</p>
 
+***Catatan***
+Berdasarkan diskripsi di atas maka analisa yang diperlukan untuk membantu strategi bisnis adalah
+* Identifikasi Kualitas air minum ([lihat hasil penelitian](https:https://lib.ui.ac.id/detail?id=9999920517500&lokasi=lokal))
 
 
 ## Catatan diskusi 
