@@ -138,7 +138,7 @@ Selain itu kita dapat  menganalisis data historis pelanggan, mengidentifikasi po
 
 ***Catatan***
 Berdasarkan diskripsi di atas maka analisa yang diperlukan untuk membantu strategi bisnis adalah
-* Identifikasi Kualitas air minum ([lihat hasil penelitian](https:https://lib.ui.ac.id/detail?id=9999920517500&lokasi=lokal))
+* Identifikasi Kualitas air minum ([lihat hasil penelitian](https:https://www.sciencedirect.com/science/article/pii/S2214714422003646))
 
 
 ## Catatan diskusi 
